@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mighty-Raindeer
 - 👀 I’m interested in self education for codeing and creating automated tools for physics applications
-- 🌱 I’m currently learning python, matlab, monte carlo, and visual studio
-- 💞️ I’m looking to collaborate on any physics projects
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python, matlab, monte carlo, C#, HTML and GPT
+- 💞️ I’m looking to collaborate on any physics, AI, Image processing, or automation project
 
 <!---
 Mighty-Raindeer/Mighty-Raindeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
